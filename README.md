@@ -66,14 +66,14 @@ END
 
 obtenim la seguent imatge:
 <p align="center">
-  <img src="test-1.png" width="500" title="exemple1" style="padding: 10px">
+  <img src="/test-1.png" width="500" title="exemple1" style="padding: 10px">
 </p>
 
 ### Exemple 3
 
 Al ``test-3.l3d`` podem visualitzar cadenes de lletres formades per la A,B i C. Un exemple, afegint una rotació, és el següent:
 <p align="center">
-  <img src="test-3.png" width="500" title="exemple3" style="padding: 10px">
+  <img src="/test-3.png" width="500" title="exemple3" style="padding: 10px">
 </p>
 
 Ho hem pogut fer gràcies a funcions com la següent:
