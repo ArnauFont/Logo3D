@@ -1,0 +1,21 @@
+PROC main() IS
+    FOR i FROM 1 TO 4 DO
+        forward(10)
+        right(90)
+    END
+    
+    color(0,1,0)
+    up(90)
+    forward(5.333)
+    hide()
+    forward(3.333)
+    show()
+    forward(7.334)
+    down(90)
+    
+    color(0,0,1)
+    FOR i FROM 1 TO 4 DO
+        backward(10)
+        left(90)
+    END
+END
