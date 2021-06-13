@@ -12,13 +12,15 @@ Es proporcionen 5 fitxers + tests (programes escrits en LOGO3D):
  - `turtle3d.py`
  - `test-*.l3d`
 
-Abans de tot hem de tenir instal·lat python. Un cop fet, descarreguem els arxius i instal·lem els requeriments:
+Abans de tot hem de tenir instal·lat python i pip3. Un cop fet, descarreguem els arxius i instal·lem els requeriments:
 
 ```bash
 pip3 install -r requirements.txt
 ```
 
-Amb aquesta comanda s'instal·larà tant `vpyton` com `antlr4`
+Amb aquesta comanda s'instal·larà `vpyton`.
+
+Per a poder instalar `antlr4` visiteu la seva pàgina de [Github]{https://github.com/antlr/antlr4/blob/master/doc/getting-started.md}.
 
 ## Com executar
 
@@ -66,14 +68,14 @@ END
 
 obtenim la seguent imatge:
 <p align="center">
-  <img src="/test-1.png" width="500" title="exemple1" style="padding: 10px">
+  <img src="test-1.png" width="500" title="exemple1" style="padding: 10px">
 </p>
 
 ### Exemple 3
 
 Al ``test-3.l3d`` podem visualitzar cadenes de lletres formades per la A,B i C. Un exemple, afegint una rotació, és el següent:
 <p align="center">
-  <img src="/test-3.png" width="500" title="exemple3" style="padding: 10px">
+  <img src="test-3.png" width="500" title="exemple3" style="padding: 10px">
 </p>
 
 Ho hem pogut fer gràcies a funcions com la següent:
