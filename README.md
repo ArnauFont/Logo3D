@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
 Amb aquesta comanda s'instal·larà `vpyton`.
 
-Per a poder instalar `antlr4` visiteu la seva pàgina de [Github]{https://github.com/antlr/antlr4/blob/master/doc/getting-started.md}.
+Per a poder instalar `antlr4` visiteu la seva pàgina de [Github](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md).
 
 ## Com executar
 
